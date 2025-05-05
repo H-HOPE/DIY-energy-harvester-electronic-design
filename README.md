@@ -53,5 +53,5 @@ In practical terms, integrating an energy management module after rectification 
 In conclusion, adding an energy management module after rectification is a necessary and highly effective step in DIY energy harvesting applications. It enables the full utilization of the energy generated under real-world fluctuating conditions, providing stable operation for sensing, communication, and energy storage tasks crucial for decentralized and resilient renewable energy systems.
 
 <div align="center">
-<img src="./images/Picture2.png" alt="drawing" width="450"/>
+<img src="/images/H-HOPE_footer.JPG" alt="drawing" width="1472"/>
 </div>
