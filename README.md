@@ -28,7 +28,7 @@ It is important to note that the electronics presented here represent preliminar
 ## **H-Hope DIY rectification circuit**
 Once obtained the alternating current (AC) from the induction generator, the first step is its rectification, obtained according to the scheme reported in Figure 1. 
   <div align="center">
-<img src="./images/Picture3.png" alt="drawing" width="350"/>
+<img src="./images/Picture3.png" alt="drawing" width="750"/>
 
 Figure 1. The schematics of efficiency measurement of the three-phase diode bridge rectifier circuit operation for the case of three-phase AC input voltage. AEM30330 was used as an example for the voltage boost circuit. The rectification circuit is located in the mddle on the top, composed of six diodes.</div>
 
