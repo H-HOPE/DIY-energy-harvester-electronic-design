@@ -23,7 +23,7 @@ This section focuses on addressing **two critical tasks necessary for managing t
  -	**Rectification** of the three-phase voltage produced by the generator into a usable direct current (DC) form;
  -	**Voltage boosting** and **energy storage**, to raise the DC voltage to a level suitable for practical use and to provide a buffer for periods of low energy generation.
 
-It is important to note that the electronics presented here represent preliminary concepts intended for educational and prototyping purposes. The final, optimized design of the H-HOPE DIY energy harvester electronics will be presented in Deliverable D8.3.
+It is important to note that the electronics presented here represent preliminary concepts intended for educational and prototyping purposes.
 
 ## **H-Hope DIY rectification circuit**
 Once obtained the alternating current (AC) from the induction generator, the first step is its rectification, obtained according to the scheme reported in Figure 1. 
